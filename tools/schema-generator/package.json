@@ -1,5 +1,5 @@
 {
-  "name": "fr-generator",
+  "name": "XiaoDHuang/fr-generator",
   "version": "2.5.9",
   "scripts": {
     "build": "father-build",
